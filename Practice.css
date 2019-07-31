@@ -1,0 +1,19 @@
+h1{
+  color:green;
+}
+
+.contain{
+  border: 5px;
+  padding: 50px;
+}
+
+img{
+  border: 8px solid orange;
+  padding: 50px;
+}
+
+body{
+  background: url("https://media.wired.com/photos/5bfde7b13ee8d605f3dd0edf/4:3/w_1040,c_limit/fallshow-01.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
